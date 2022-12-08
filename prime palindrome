@@ -8,7 +8,7 @@ def isprime(n):
       return False
   return True
 
-n = int(input("Enter n: "))
+n = int(input("Enter n"))
 
 i = 0
 j = 1
